@@ -154,7 +154,7 @@ scripts/simulate-inbound.ts
 
 ## More
 
-This is one piece of a larger write-up on running AI systems in production: [github.com/fechegarzon/ai-systems-in-production](https://github.com/fechegarzon/ai-systems-in-production).
+More about how I work with AI systems in production: [feche.xyz](https://feche.xyz).
 
 ## License
 
